@@ -1,6 +1,6 @@
 # Feed Reader Project
 
-This project is about using jasmine feed reader, which will make sure
+This Udacity project is about using Jasmine feed reader, which will make sure
 the work and functions are going fine.
 
 ## Libraries used:
